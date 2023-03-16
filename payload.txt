@@ -1,1 +1,3 @@
+net user
+netsh wlan show profile
 dir
